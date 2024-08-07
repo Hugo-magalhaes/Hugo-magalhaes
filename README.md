@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🔭 I'm looking for data cientist and data engineer positions.<br>
-- 🤔 I'm working on develop my skills in SQL and Python.
-- 🌱 I'm current learning Python and projects in Django.<br><br>
+- 🔭 I'm looking for data scientist and business intelligence positions.
+- 🤔 I'm working on developing my skills in Advanced SQL and building strong ability to object-oriented programming.
+- 🌱 I'm currently working with Python oriented to real automation projects.
 
 
 ## 🌐 Socials:
@@ -39,12 +39,18 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+ ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+
+
 
 # ❤️ Soft Skills:
 ![Communicative](https://img.shields.io/badge/Communicative-red?style=for-the-badge)
 ![Proactive](https://img.shields.io/badge/Proactive-blue?style=for-the-badge)
-![Organized](https://img.shields.io/badge/Organized-red?style=for-the-badge)
-![Empathetic](https://img.shields.io/badge/Empathetic-blue?style=for-the-badge)
+![Organized](https://img.shields.io/badge/Organized-black?style=for-the-badge)
+![Empathetic](https://img.shields.io/badge/Empathetic-green?style=for-the-badge)
+![Analytical](https://img.shields.io/badge/Analytical-yellow?style=for-the-badge)
+![Detailed](https://img.shields.io/badge/Detailed-grey?style=for-the-badge)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hugo-magalhaes&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
